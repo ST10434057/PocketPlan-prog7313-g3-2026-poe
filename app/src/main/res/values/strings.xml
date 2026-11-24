@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PROG7313POEPART1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="pocketplan_logo">PocketPlan logo</string>
+    <string name="pocketplan">PocketPlan</string>
+    <string name="smart_budgeting_for_students">Smart budgeting for students</string>
+    <string name="default_web_client_id">957072747569-p88hl06fei101t4l8aooe39ookdgouca.apps.googleusercontent.com</string>
+</resources>

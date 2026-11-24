@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528728512834",
+    "project_id": "prog7311-gr1-poe",
+    "storage_bucket": "prog7311-gr1-poe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528728512834:android:44fb7f06e05eac0bd050db",
+        "android_client_info": {
+          "package_name": "com.example.prog7313poepart1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528728512834-586rmsddkjajlcp6glflcrpl3c6dbu2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prog7313poepart1",
+            "certificate_hash": "7f1d7449439519acff3ef34e2261f6f8172b6893"
+          }
+        },
+        {
+          "client_id": "528728512834-40993lca1t765bp2tmenjfidrsl9643l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzHHcsWeBQc-iLkKfza0n5rwxjrPpF5j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528728512834-40993lca1t765bp2tmenjfidrsl9643l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
